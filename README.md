@@ -4,7 +4,7 @@ TO DO LIST
 - index.html
 - types.html
 - counselling.html
-- about.html
+- about.html (done and can check!)
 
 
 Can refer to:
