@@ -1,10 +1,10 @@
 # Psyche-2
 
-TO DO LIST
-- index.html (done and can check!)
+TO DO LIST (update: all done and can check!)
+- index.html
 - type.html
-- counselling.html (done and can check!)
-- about.html (done and can check!)
+- counselling.html
+- about.html
 
 
 Can refer to:
