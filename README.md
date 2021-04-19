@@ -1,9 +1,9 @@
 # Psyche-2
 
 TO DO LIST
-- index.html
-- types.html
-- counselling.html
+- index.html (done and can check!)
+- type.html
+- counselling.html (done and can check!)
 - about.html (done and can check!)
 
 
