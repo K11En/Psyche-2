@@ -2,7 +2,7 @@
 
 TO DO LIST (update: all done and can check!)
 - index.html
-- type.html
+- type.html 
 - counselling.html
 - about.html
 
